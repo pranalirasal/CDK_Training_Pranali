@@ -1,3 +1,3 @@
 enum Day {
-		SUN, MON, TUE, WED, THURS, FRI, SAT
+	SUN, MON, TUE, WED, THURS, FRI, SAT
 }
