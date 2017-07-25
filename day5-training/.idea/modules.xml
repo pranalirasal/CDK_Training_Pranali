@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/day5-training.iml" filepath="$PROJECT_DIR$/day5-training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-employee/day10-employee.iml" filepath="$PROJECT_DIR$/day10-employee/day10-employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/email/email.iml" filepath="$PROJECT_DIR$/email/email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-day6/employee-day6.iml" filepath="$PROJECT_DIR$/employee-day6/employee-day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person/person.iml" filepath="$PROJECT_DIR$/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personday9/personday9.iml" filepath="$PROJECT_DIR$/personday9/personday9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringdemo/stringdemo.iml" filepath="$PROJECT_DIR$/stringdemo/stringdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tictactoe/tictactoe.iml" filepath="$PROJECT_DIR$/tictactoe/tictactoe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/training.iml" filepath="$PROJECT_DIR$/training.iml" />
     </modules>
   </component>
 </project>
